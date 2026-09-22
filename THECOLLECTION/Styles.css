@@ -1,0 +1,45 @@
+body {
+    background: darkblue;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.Maintitle {
+    color: orange;
+    text-align: center;
+    font-size: 3vw;
+    font-family: "Times New Roman";
+}
+
+.VideoP {
+    color: darkblue;
+    font-size: 1vw;
+    font-family: "Times New Roman";
+    background-color: orange;
+    width: 40vw;
+    height: 3vh;
+}
+
+.VideoPDIV {
+    text-align: center;
+}
+
+.Video {
+    display: block;
+    width: 80vw;
+    height: 45vw;
+    border: none;
+    margin: auto;
+}
+
+.MainMenu {
+    color: darkblue;
+    font-size: 1vw;
+    font-family: "Times New Roman";
+    background-color: orange;
+    width: 5vw;
+    height: 3vh;
+}
